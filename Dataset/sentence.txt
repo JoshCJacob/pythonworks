@@ -1,0 +1,3 @@
+this is a word file of python
+this is which where typing the code
+the word is hello world
